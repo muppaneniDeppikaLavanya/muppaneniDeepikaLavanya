@@ -8,7 +8,7 @@ I'm a Full stack web developer passionate about creating beautiful and responsiv
 - Responsive Design,System design
 
 ## Portfolio
-Check out my portfolio [portfolio](https://github.com/muppaneniDeppikaLavanya/portfolio.git)
+Check out my portfolio [here](https://github.com/muppaneniDeppikaLavanya/portfolio.git)
 
 ## Contact
 - Email: deepikamuppaneni@gmail.com
